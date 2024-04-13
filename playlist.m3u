@@ -1,0 +1,235 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.com/tv/CCTV16-4K.png" group-title="4K频道",CCTV16-4K
+http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="4K频道",CCTV-4K
+http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
+#EXTINF:-1 tvg-name="欢笑剧场4k" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场4k.png" group-title="4K频道",欢笑剧场4k
+http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
+#EXTINF:-1 tvg-name="CCTV1 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV1 8M.png" group-title="央视",CCTV1 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv1hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV2 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV2 8M.png" group-title="央视",CCTV2 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv2hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV3 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV3 8M.png" group-title="央视",CCTV3 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv38m/8000000
+#EXTINF:-1 tvg-name="CCTV4 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV4 8M.png" group-title="央视",CCTV4 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv4hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV5 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV5 8M.png" group-title="央视",CCTV5 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv58m/8000000
+#EXTINF:-1 tvg-name="CCTV5+ 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV5+ 8M.png" group-title="央视",CCTV5+ 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv5phd8m/8000000
+#EXTINF:-1 tvg-name="CCTV5+ 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV5+ 8M.png" group-title="央视",CCTV5+ 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv5hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV6 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV6 8M.png" group-title="央视",CCTV6 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv6hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV7 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV7 8M.png" group-title="央视",CCTV7 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv7hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV8 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV8 8M.png" group-title="央视",CCTV8 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv8hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV9 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV9 8M.png" group-title="央视",CCTV9 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv9hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV10 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV10 8M.png" group-title="央视",CCTV10 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv10hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV11 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV11 8M.png" group-title="央视",CCTV11 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv11hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV12 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV12 8M.png" group-title="央视",CCTV12 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv12hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV13 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV13 8M.png" group-title="央视",CCTV13 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 tvg-name="CCTV14 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV14 8M.png" group-title="央视",CCTV14 8M
+http://php.jdshipin.com:8880/bst.php?id=cctvsehd8m/8000000
+#EXTINF:-1 tvg-name="CCTV15 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV15 8M.png" group-title="央视",CCTV15 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv15hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV16 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV16 8M.png" group-title="央视",CCTV16 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv16hd8m/8000000
+#EXTINF:-1 tvg-name="CCTV17 8M" tvg-logo="https://live.fanmingming.com/tv/CCTV17 8M.png" group-title="央视",CCTV17 8M
+http://php.jdshipin.com:8880/bst.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-name="北京卫视 8M" tvg-logo="https://live.fanmingming.com/tv/北京卫视 8M.png" group-title="卫视",北京卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=bjwshd8m/8000000
+#EXTINF:-1 tvg-name="东方卫视 8M" tvg-logo="https://live.fanmingming.com/tv/东方卫视 8M.png" group-title="卫视",东方卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=dfwshd8m/8000000
+#EXTINF:-1 tvg-name="天津卫视 8M" tvg-logo="https://live.fanmingming.com/tv/天津卫视 8M.png" group-title="卫视",天津卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=tjwshd8m/8000000
+#EXTINF:-1 tvg-name="重庆卫视 8M" tvg-logo="https://live.fanmingming.com/tv/重庆卫视 8M.png" group-title="卫视",重庆卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=cqws8m/8000000
+#EXTINF:-1 tvg-name="黑龙江卫视 8M" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视 8M.png" group-title="卫视",黑龙江卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hljwshd8m/8000000
+#EXTINF:-1 tvg-name="吉林卫视 8M" tvg-logo="https://live.fanmingming.com/tv/吉林卫视 8M.png" group-title="卫视",吉林卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=jlwshd8m/8000000
+#EXTINF:-1 tvg-name="辽宁卫视 8M" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视 8M.png" group-title="卫视",辽宁卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=lnwshd8m/8000000
+#EXTINF:-1 tvg-name="内蒙古卫视 2M" tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视 2M.png" group-title="卫视",内蒙古卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=nmgws/1300000
+#EXTINF:-1 tvg-name="宁夏卫视 2M" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视 2M.png" group-title="卫视",宁夏卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=nxws/1300000
+#EXTINF:-1 tvg-name="甘肃卫视 8M" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视 8M.png" group-title="卫视",甘肃卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=gswshd8m/8000000
+#EXTINF:-1 tvg-name="青海卫视 2M" tvg-logo="https://live.fanmingming.com/tv/青海卫视 2M.png" group-title="卫视",青海卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=qhws/1300000
+#EXTINF:-1 tvg-name="陕西卫视 2M" tvg-logo="https://live.fanmingming.com/tv/陕西卫视 2M.png" group-title="卫视",陕西卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=sxws/1300000
+#EXTINF:-1 tvg-name="河北卫视 8M" tvg-logo="https://live.fanmingming.com/tv/河北卫视 8M.png" group-title="卫视",河北卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hbwshd8m/8000000
+#EXTINF:-1 tvg-name="山西卫视 2M" tvg-logo="https://live.fanmingming.com/tv/山西卫视 2M.png" group-title="卫视",山西卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=shanxiws/1300000
+#EXTINF:-1 tvg-name="山东卫视 8M" tvg-logo="https://live.fanmingming.com/tv/山东卫视 8M.png" group-title="卫视",山东卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=sdws8m/8000000
+#EXTINF:-1 tvg-name="安徽卫视 8M" tvg-logo="https://live.fanmingming.com/tv/安徽卫视 8M.png" group-title="卫视",安徽卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=ahwshd8m/8000000
+#EXTINF:-1 tvg-name="河南卫视 8M" tvg-logo="https://live.fanmingming.com/tv/河南卫视 8M.png" group-title="卫视",河南卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hnwshd8m/8000000
+#EXTINF:-1 tvg-name="湖北卫视 8M" tvg-logo="https://live.fanmingming.com/tv/湖北卫视 8M.png" group-title="卫视",湖北卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hubeiws8m/8000000
+#EXTINF:-1 tvg-name="湖南卫视 8M" tvg-logo="https://live.fanmingming.com/tv/湖南卫视 8M.png" group-title="卫视",湖南卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hunanwshd8m/8000000
+#EXTINF:-1 tvg-name="江西卫视 8M" tvg-logo="https://live.fanmingming.com/tv/江西卫视 8M.png" group-title="卫视",江西卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=jxws8m/8000000
+#EXTINF:-1 tvg-name="江苏卫视 8M" tvg-logo="https://live.fanmingming.com/tv/江苏卫视 8M.png" group-title="卫视",江苏卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=jswshd8m/8000000
+#EXTINF:-1 tvg-name="浙江卫视 8M" tvg-logo="https://live.fanmingming.com/tv/浙江卫视 8M.png" group-title="卫视",浙江卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=zjwshd8m/8000000
+#EXTINF:-1 tvg-name="东南卫视 8M" tvg-logo="https://live.fanmingming.com/tv/东南卫视 8M.png" group-title="卫视",东南卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=dnwshd8m/8000000
+#EXTINF:-1 tvg-name="广东卫视 8M" tvg-logo="https://live.fanmingming.com/tv/广东卫视 8M.png" group-title="卫视",广东卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=gdwshd8m/8000000
+#EXTINF:-1 tvg-name="深圳卫视 8M" tvg-logo="https://live.fanmingming.com/tv/深圳卫视 8M.png" group-title="卫视",深圳卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=szwshd8m/8000000
+#EXTINF:-1 tvg-name="广西卫视 8M" tvg-logo="https://live.fanmingming.com/tv/广西卫视 8M.png" group-title="卫视",广西卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=gxwshd8m/8000000
+#EXTINF:-1 tvg-name="云南卫视 8M" tvg-logo="https://live.fanmingming.com/tv/云南卫视 8M.png" group-title="卫视",云南卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
+#EXTINF:-1 tvg-name="贵州卫视 8M" tvg-logo="https://live.fanmingming.com/tv/贵州卫视 8M.png" group-title="卫视",贵州卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
+#EXTINF:-1 tvg-name="四川卫视 8M" tvg-logo="https://live.fanmingming.com/tv/四川卫视 8M.png" group-title="卫视",四川卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=scwshd/8000000
+#EXTINF:-1 tvg-name="新疆卫视 2M" tvg-logo="https://live.fanmingming.com/tv/新疆卫视 2M.png" group-title="卫视",新疆卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=xjws/1300000
+#EXTINF:-1 tvg-name="兵团卫视 2M" tvg-logo="https://live.fanmingming.com/tv/兵团卫视 2M.png" group-title="卫视",兵团卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=btws/1300000
+#EXTINF:-1 tvg-name="西藏卫视 2M" tvg-logo="https://live.fanmingming.com/tv/西藏卫视 2M.png" group-title="卫视",西藏卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=xzws/2500000
+#EXTINF:-1 tvg-name="海南卫视 8M" tvg-logo="https://live.fanmingming.com/tv/海南卫视 8M.png" group-title="卫视",海南卫视 8M
+http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
+#EXTINF:-1 tvg-name="厦门卫视 2M" tvg-logo="https://live.fanmingming.com/tv/厦门卫视 2M.png" group-title="卫视",厦门卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=xmws/1300000
+#EXTINF:-1 tvg-name="康巴卫视 2M" tvg-logo="https://live.fanmingming.com/tv/康巴卫视 2M.png" group-title="卫视",康巴卫视 2M
+http://php.jdshipin.com:8880/bst.php?id=kbws/2500000
+#EXTINF:-1 tvg-name="三沙卫士 8M" tvg-logo="https://live.fanmingming.com/tv/三沙卫士 8M.png" group-title="卫视",三沙卫士 8M
+http://php.jdshipin.com:8880/bst.php?id=sswshd8m/8000000
+#EXTINF:-1 tvg-name="海峡卫视 4m" tvg-logo="https://live.fanmingming.com/tv/海峡卫视 4m.png" group-title="卫视",海峡卫视 4m
+http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
+#EXTINF:-1 tvg-name="西藏藏语 2M" tvg-logo="https://live.fanmingming.com/tv/西藏藏语 2M.png" group-title="卫视",西藏藏语 2M
+http://php.jdshipin.com:8880/bst.php?id=xzwszy/2500000
+#EXTINF:-1 tvg-name="中国教育-1 8M" tvg-logo="https://live.fanmingming.com/tv/中国教育-1 8M.png" group-title="少儿",中国教育-1 8M
+http://php.jdshipin.com:8880/bst.php?id=zgjy1t8m/8000000
+#EXTINF:-1 tvg-name="中国教育-2 8M" tvg-logo="https://live.fanmingming.com/tv/中国教育-2 8M.png" group-title="少儿",中国教育-2 8M
+http://php.jdshipin.com:8880/bst.php?id=cetv2/2500000
+#EXTINF:-1 tvg-name="中国教育-4 8M" tvg-logo="https://live.fanmingming.com/tv/中国教育-4 8M.png" group-title="少儿",中国教育-4 8M
+http://php.jdshipin.com:8880/bst.php?id=zgjy4hd8m/8000000
+#EXTINF:-1 tvg-name="卡酷少儿 8M" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿 8M.png" group-title="少儿",卡酷少儿 8M
+http://php.jdshipin.com:8880/bst.php?id=kkse8m/8000000
+#EXTINF:-1 tvg-name="金鹰卡通 2M" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通 2M.png" group-title="少儿",金鹰卡通 2M
+http://php.jdshipin.com:8880/bst.php?id=jykt/1300000
+#EXTINF:-1 tvg-name="炫动卡通 8M" tvg-logo="https://live.fanmingming.com/tv/炫动卡通 8M.png" group-title="少儿",炫动卡通 8M
+http://php.jdshipin.com:8880/bst.php?id=hhxd8m/8000000
+#EXTINF:-1 tvg-name="嘉佳卡通 2M" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通 2M.png" group-title="少儿",嘉佳卡通 2M
+http://php.jdshipin.com:8880/bst.php?id=jjkt/1300000
+#EXTINF:-1 tvg-name="动漫秀场 8M" tvg-logo="https://live.fanmingming.com/tv/动漫秀场 8M.png" group-title="少儿",动漫秀场 8M
+http://php.jdshipin.com:8880/bst.php?id=dmxc8m/8000000
+#EXTINF:-1 tvg-name="电竞天堂 8M" tvg-logo="https://live.fanmingming.com/tv/电竞天堂 8M.png" group-title="少儿",电竞天堂 8M
+http://php.jdshipin.com:8880/bst.php?id=djtt8m/8000000
+#EXTINF:-1 tvg-name="青春动漫 8M" tvg-logo="https://live.fanmingming.com/tv/青春动漫 8M.png" group-title="少儿",青春动漫 8M
+http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
+#EXTINF:-1 tvg-name="宝宝动画 8M" tvg-logo="https://live.fanmingming.com/tv/宝宝动画 8M.png" group-title="少儿",宝宝动画 8M
+http://php.jdshipin.com:8880/bst.php?id=bbdh8m/8000000
+#EXTINF:-1 tvg-name="百变课堂 8M" tvg-logo="https://live.fanmingming.com/tv/百变课堂 8M.png" group-title="少儿",百变课堂 8M
+http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
+#EXTINF:-1 tvg-name="游戏风云 8M" tvg-logo="https://live.fanmingming.com/tv/游戏风云 8M.png" group-title="少儿",游戏风云 8M
+http://php.jdshipin.com:8880/bst.php?id=yxfy8m/8000000
+#EXTINF:-1 tvg-name="中国天气 8M" tvg-logo="https://live.fanmingming.com/tv/中国天气 8M.png" group-title="休闲",中国天气 8M
+http://php.jdshipin.com:8880/bst.php?id=zgqx/1300000
+#EXTINF:-1 tvg-name="欢笑剧场 8M" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场 8M.png" group-title="休闲",欢笑剧场 8M
+http://php.jdshipin.com:8880/bst.php?id=hxjc8m/8000000
+#EXTINF:-1 tvg-name="快乐垂钓 8M" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓 8M.png" group-title="休闲",快乐垂钓 8M
+http://php.jdshipin.com:8880/bst.php?id=klcd8m/8000000
+#EXTINF:-1 tvg-name="金鹰纪实 8M" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实 8M.png" group-title="休闲",金鹰纪实 8M
+http://php.jdshipin.com:8880/bst.php?id=jyjs8m/8000000
+#EXTINF:-1 tvg-name="戏曲精选 8M" tvg-logo="https://live.fanmingming.com/tv/戏曲精选 8M.png" group-title="休闲",戏曲精选 8M
+http://php.jdshipin.com:8880/bst.php?id=xqjx8m/8000000
+#EXTINF:-1 tvg-name="茶频道 8M" tvg-logo="https://live.fanmingming.com/tv/茶频道 8M.png" group-title="休闲",茶频道 8M
+http://php.jdshipin.com:8880/bst.php?id=cpdhdavs8m/8000000
+#EXTINF:-1 tvg-name="财富天下 8M" tvg-logo="https://live.fanmingming.com/tv/财富天下 8M.png" group-title="休闲",财富天下 8M
+http://php.jdshipin.com:8880/bst.php?id=cftx/2500000
+#EXTINF:-1 tvg-name="看天下精选 8M" tvg-logo="https://live.fanmingming.com/tv/看天下精选 8M.png" group-title="休闲",看天下精选 8M
+http://php.jdshipin.com:8880/bst.php?id=ktxjx8m/8000000
+#EXTINF:-1 tvg-name="华语影院 8M" tvg-logo="https://live.fanmingming.com/tv/华语影院 8M.png" group-title="休闲",华语影院 8M
+http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
+#EXTINF:-1 tvg-name="星光影院 8M" tvg-logo="https://live.fanmingming.com/tv/星光影院 8M.png" group-title="休闲",星光影院 8M
+http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
+#EXTINF:-1 tvg-name="谍战剧场 8M" tvg-logo="https://live.fanmingming.com/tv/谍战剧场 8M.png" group-title="休闲",谍战剧场 8M
+http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
+#EXTINF:-1 tvg-name="都市剧场 8M" tvg-logo="https://live.fanmingming.com/tv/都市剧场 8M.png" group-title="休闲",都市剧场 8M
+http://php.jdshipin.com:8880/bst.php?id=dsjc8m/8000000
+#EXTINF:-1 tvg-name="全球大片 8M" tvg-logo="https://live.fanmingming.com/tv/全球大片 8M.png" group-title="休闲",全球大片 8M
+http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
+#EXTINF:-1 tvg-name="热门剧场 8M" tvg-logo="https://live.fanmingming.com/tv/热门剧场 8M.png" group-title="休闲",热门剧场 8M
+http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
+#EXTINF:-1 tvg-name="纪实科教 8M" tvg-logo="https://live.fanmingming.com/tv/纪实科教 8M.png" group-title="休闲",纪实科教 8M
+http://php.jdshipin.com:8880/bst.php?id=dajs8m/8000000
+#EXTINF:-1 tvg-name="魅力足球 8M" tvg-logo="https://live.fanmingming.com/tv/魅力足球 8M.png" group-title="休闲",魅力足球 8M
+http://php.jdshipin.com:8880/bst.php?id=mlyyhd8m/8000000
+#EXTINF:-1 tvg-name="乐游 8M" tvg-logo="https://live.fanmingming.com/tv/乐游 8M.png" group-title="休闲",乐游 8M
+http://php.jdshipin.com:8880/bst.php?id=qjshd8m/8000000
+#EXTINF:-1 tvg-name="上海新闻 8M" tvg-logo="https://live.fanmingming.com/tv/上海新闻 8M.png" group-title="上海",上海新闻 8M
+http://php.jdshipin.com:8880/bst.php?id=xwzhhd8m/8000000
+#EXTINF:-1 tvg-name="上海都市 8M" tvg-logo="https://live.fanmingming.com/tv/上海都市 8M.png" group-title="上海",上海都市 8M
+http://php.jdshipin.com:8880/bst.php?id=dshd8m/8000000
+#EXTINF:-1 tvg-name="上海教育 8M" tvg-logo="https://live.fanmingming.com/tv/上海教育 8M.png" group-title="上海",上海教育 8M
+http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
+#EXTINF:-1 tvg-name="上海纪实 8M" tvg-logo="https://live.fanmingming.com/tv/上海纪实 8M.png" group-title="上海",上海纪实 8M
+http://php.jdshipin.com:8880/bst.php?id=jspdhd/4000000
+#EXTINF:-1 tvg-name="上视外语 8M" tvg-logo="https://live.fanmingming.com/tv/上视外语 8M.png" group-title="上海",上视外语 8M
+http://php.jdshipin.com:8880/bst.php?id=icshd8m/8000000
+#EXTINF:-1 tvg-name="东方财经 8M" tvg-logo="https://live.fanmingming.com/tv/东方财经 8M.png" group-title="上海",东方财经 8M
+http://php.jdshipin.com:8880/bst.php?id=dfcjhd8m/8000000
+#EXTINF:-1 tvg-name="东方影视 8M" tvg-logo="https://live.fanmingming.com/tv/东方影视 8M.png" group-title="上海",东方影视 8M
+http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
+#EXTINF:-1 tvg-name="五星体育 8M" tvg-logo="https://live.fanmingming.com/tv/五星体育 8M.png" group-title="上海",五星体育 8M
+http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+#EXTINF:-1 tvg-name="新视觉 8M" tvg-logo="https://live.fanmingming.com/tv/新视觉 8M.png" group-title="上海",新视觉 8M
+http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
+#EXTINF:-1 tvg-name="法治天地 8M" tvg-logo="https://live.fanmingming.com/tv/法治天地 8M.png" group-title="上海",法治天地 8M
+http://php.jdshipin.com:8880/bst.php?id=fztd8m/8000000
+#EXTINF:-1 tvg-name="金色学堂 8M" tvg-logo="https://live.fanmingming.com/tv/金色学堂 8M.png" group-title="上海",金色学堂 8M
+http://php.jdshipin.com:8880/bst.php?id=jingsepd8m/8000000
+#EXTINF:-1 tvg-name="七彩戏剧 8M" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧 8M.png" group-title="上海",七彩戏剧 8M
+http://php.jdshipin.com:8880/bst.php?id=qcxjhd8m/8000000
+#EXTINF:-1 tvg-name="生活时尚 8M" tvg-logo="https://live.fanmingming.com/tv/生活时尚 8M.png" group-title="上海",生活时尚 8M
+http://php.jdshipin.com:8880/bst.php?id=shss8m/8000000
+#EXTINF:-1 tvg-name="热门综艺 8M" tvg-logo="https://live.fanmingming.com/tv/热门综艺 8M.png" group-title="上海",热门综艺 8M
+http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
+#EXTINF:-1 tvg-name="劲爆体育 8M" tvg-logo="https://live.fanmingming.com/tv/劲爆体育 8M.png" group-title="上海",劲爆体育 8M
+http://php.jdshipin.com:8880/bst.php?id=jbtyhd8m/8000000
+#EXTINF:-1 tvg-name="健康养生 8M" tvg-logo="https://live.fanmingming.com/tv/健康养生 8M.png" group-title="上海",健康养生 8M
+http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
+#EXTINF:-1 tvg-name="上海第一财经 8M" tvg-logo="https://live.fanmingming.com/tv/上海第一财经 8M.png" group-title="上海",上海第一财经 8M
+http://php.jdshipin.com:8880/bst.php?id=dycjhd8m/8000000
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建",福建综合
+http://php.jdshipin.com:8880/bst.php?id=fjzhhd8m/8000000
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建",福建新闻
+http://php.jdshipin.com:8880/bst.php?id=fjxwhd8m/8000000
+#EXTINF:-1 tvg-name="福建乡村振兴公共" tvg-logo="https://live.fanmingming.com/tv/福建乡村振兴公共.png" group-title="福建",福建乡村振兴公共
+http://php.jdshipin.com:8880/bst.php?id=fjgghd4m/4000000
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建",福建文体
+http://php.jdshipin.com:8880/bst.php?id=fjtyhd4m/4000000
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建",福建少儿
+http://php.jdshipin.com:8880/bst.php?id=fjsehd4m/4000000
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建",福建旅游
+http://php.jdshipin.com:8880/bst.php?id=fjlyhd4m/4000000
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建",福建经济
+http://php.jdshipin.com:8880/bst.php?id=fjjjshhd4m/4000000
+#EXTINF:-1 tvg-name="福建教育" tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建",福建教育
+http://php.jdshipin.com:8880/bst.php?id=fjjypdhd4m/4000000
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建",福建电视剧
+http://php.jdshipin.com:8880/bst.php?id=fjdsjhd4m/4000000
+#EXTINF:-1 tvg-name="福建海峡卫视" tvg-logo="https://live.fanmingming.com/tv/福建海峡卫视.png" group-title="福建",福建海峡卫视
+http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
